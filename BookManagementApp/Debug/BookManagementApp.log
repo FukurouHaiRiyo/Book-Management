@@ -1,0 +1,8 @@
+﻿  Book.cpp
+  BookManagementApp.cpp
+  Library.cpp
+D:\C++Projects\BookManagementApp\Library.cpp(101,20): warning C4018: '<': signed/unsigned mismatch
+D:\C++Projects\BookManagementApp\Library.cpp(103,21): warning C4018: '<': signed/unsigned mismatch
+D:\C++Projects\BookManagementApp\Library.cpp(115,20): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  BookManagementApp.vcxproj -> D:\C++Projects\BookManagementApp\Debug\BookManagementApp.exe
